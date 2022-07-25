@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Djonatanabreu
 - 👀 I’m interested in ... cofé
-- 🌱 I’m currently learning ...js && react
+- 🌱 I’m currently learning ...js && react native
 - 💞️ I’m looking to collaborate on ... save the florests
 - 📫 How to reach me ...come here
 
