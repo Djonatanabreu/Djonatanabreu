@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Djonatanabreu
-- 👀 I’m interested in ... cofé
+- 👀 I’m interested in ... coffee
 - 🌱 I’m currently learning ...js && react native
 - 💞️ I’m looking to collaborate on ... save the florests
 - 📫 How to reach me ...come here
