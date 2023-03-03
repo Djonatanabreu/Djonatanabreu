@@ -36,6 +36,10 @@
   
   <div>
     <h2>Projects In Progress: </h2>
+    →
     <a href="https://github.com/Djonatanabreu/legendary-store-mobile">Legendary Store App</a>
+    <br/>
+    →
+    <a href="https://github.com/Djonatanabreu/event-list-app">Event List</a>
   </div>
 
