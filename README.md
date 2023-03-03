@@ -31,6 +31,5 @@
   <h4>Workflow Controls & Management:</h4>
     <img style="margin-right: 5px;" src="https://asset.brandfetch.io/idU6lzwMYA/idMaCKxlWy.svg" width="30px" />
     <img style="margin-right: 5px;" src="https://www.vectorlogo.zone/logos/monday/monday-icon.svg" width="30px" />
-    <img style="margin-right: 5px;" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Asana_logo.svg" width="30px" />
   </div>
 <div>
