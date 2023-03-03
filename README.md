@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Djonatanabreu
-- 👀 I’m interested in ... coffee
-- 🌱 I’m currently learning ...js && react native
-- 💞️ I’m looking to collaborate on ... save the florests
-- 📫 How to reach me ...come here
 
-<!---
-Djonatanabreu/Djonatanabreu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<h1> FrontEnd Developer</h1>
+<h4><i>Websites | Web SPA | Mobile Hybrid </i><h4>
+
+<div>
+  <h4>Skills:</h4>
+    <img style="margin-right: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" />
+    <img style="margin-right: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30px" />
+    <img style="margin-right: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" />
+    <img style="margin-right: 5px; background-color: grey" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30px"/>
+    <img style="margin-right: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"  width="30px" />
+    <img style="margin-right: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" />
+    <img style="margin-right: 5px;  background-color: grey" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px" />
+    <img style="margin-right: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="30px" />
+    <img style="margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30px" />
+  </div>
+<div>
