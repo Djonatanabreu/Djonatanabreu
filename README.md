@@ -4,7 +4,7 @@
 <h4><i>Websites | Web SPA | Mobile Hybrid </i><h4>
 
 <div>
-  <h4>Skills:</h4>
+  <h4>FrontEnd Dev Skills:</h4>
     <img style="margin-right: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" />
     <img style="margin-right: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30px" />
     <img style="margin-right: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30px" />
