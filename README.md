@@ -27,5 +27,8 @@
     <img style="margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="30px" />
     <img style="margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="30px" />
     <img style="margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="30px" />
+  <br/>
+  <h4>Workflow Controls & Management:</h4>
+    <img style="margin-right: 5px;" src="https://asset.brandfetch.io/idU6lzwMYA/idMaCKxlWy.svg" width="30px" />
   </div>
 <div>
