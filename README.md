@@ -33,3 +33,9 @@
     <img style="margin-right: 5px;" src="https://www.vectorlogo.zone/logos/monday/monday-icon.svg" width="30px" />
   </div>
 <div>
+  
+  <div>
+    <h2>Projects In Progress: </h2>
+    <a href="https://github.com/Djonatanabreu/legendary-store-mobile">Legendary Store App</a>
+  </div>
+
