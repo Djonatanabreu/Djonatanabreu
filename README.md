@@ -49,12 +49,12 @@
   <!-- Web -->
   <img alt="Supports Expo Web" longdesc="Supports Expo Web" src="https://img.shields.io/badge/web-4630EB.svg?style=flat-square&logo=GOOGLE-CHROME&labelColor=4285F4&logoColor=fff" />
 </p>
-    <br>
+    <br/>
     →
     <a href="https://github.com/Djonatanabreu/event-list-app">Event List</a>
-    <br>
+    <br/>
      <!-- Web -->
-    <img style="margin-bottom: 40px" alt="Supports Expo Web" longdesc="Supports Expo Web" src="https://img.shields.io/badge/web-4630EB.svg?style=flat-square&logo=GOOGLE-CHROME&labelColor=4285F4&logoColor=fff" />
+    <img style="margin-bottom: 40px;" alt="Supports Expo Web" longdesc="Supports Expo Web" src="https://img.shields.io/badge/web-4630EB.svg?style=flat-square&logo=GOOGLE-CHROME&labelColor=4285F4&logoColor=fff" />
   </div>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djonatanAbreu)](https://github.com/anuraghazra/github-readme-stats)
