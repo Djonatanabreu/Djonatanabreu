@@ -1,5 +1,5 @@
   <h1> FrontEnd Developer</h1>
-  <h4><i>Websites | Web SPA | Mobile Hybrid </i><h4>
+  <h4><i>Websites | Web SPA | Mobile Hybrid </i></h4>
 <div>
     <div>
    <h3/> Profile </h3>
