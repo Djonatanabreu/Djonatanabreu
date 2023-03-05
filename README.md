@@ -53,8 +53,11 @@
     →
     <a href="https://github.com/Djonatanabreu/event-list-app">Event List</a>
     <br/>
+    <p>
      <!-- Web -->
-    <img style="margin-bottom: 40px;" alt="Supports Expo Web" longdesc="Supports Expo Web" src="https://img.shields.io/badge/web-4630EB.svg?style=flat-square&logo=GOOGLE-CHROME&labelColor=4285F4&logoColor=fff" />
+    <img alt="Supports Expo Web" longdesc="Supports Expo Web" src="https://img.shields.io/badge/web-4630EB.svg?style=flat-square&logo=GOOGLE-CHROME&labelColor=4285F4&logoColor=fff" />
+    </p>
+    <br/>
   </div>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djonatanAbreu)](https://github.com/anuraghazra/github-readme-stats)
+[![Djonatan's GitHub stats](https://github-readme-stats.vercel.app/api?username=djonatanAbreu&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
