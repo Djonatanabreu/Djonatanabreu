@@ -1,6 +1,6 @@
 <div>
   <h1> FrontEnd Developer</h1>
-  <h4><i>Websites | Web SPA | Mobile Hybrid </i></h4>
+  <h4><i>Websites | Web SPA | Mobile Hybrid.</i></h4>
   <div>
     <h3/> Profile </h3>
     <p> <i>I love Knowledge, I love to learn.</i> </p>
@@ -11,7 +11,7 @@
       this is very powerful for the evolution of a company. That's what makes me so motivated to face all the challenges
       in my professional journey.</p>
   </div>
-  <div align="center">
+  <div>
     <h4>FrontEnd Dev Skills:</h4>
     <img style="margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
       width="30px" />
@@ -62,7 +62,7 @@
   <div>
     <h2>Projects In Progress: </h2>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="right" src="https://github-readme-stats.vercel.app/api?username=djonatanAbreu&theme=radical" />
+      <img align="right" src="https://github-readme-stats.vercel.app/api?username=djonatanAbreu&show_icons=true&theme=radical" />
     </a>
     →
     <a style="margin-bottom: 3px;" href="https://github.com/Djonatanabreu/legendary-store-mobile">Legendary Store
