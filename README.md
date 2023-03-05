@@ -52,3 +52,4 @@
     <a href="https://github.com/Djonatanabreu/event-list-app">Event List</a>
   </div>
 
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djonatanAbreu)](https://github.com/anuraghazra/github-readme-stats)
