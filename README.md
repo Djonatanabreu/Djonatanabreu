@@ -5,7 +5,7 @@
    <h3/> Profile </h3>
   <p><i>I love Knowledge, I love to learn.</i></p> 
   <p>The <b>IT development environment</b> is my "habitat", I have been very interested in programming languages since I was 12 years.</p>
-  <p>The path I follow for the growth of my career is made up of <b>three pillars:</b> <i>personal management, innovation and adaptation.</i> This way, I can provide a healthy relationship with the company's team. I believe this is very powerful for the evolution of a company. That's what makes me so motivated to face all the challenges in my professional journey.</p> 
+  <p>The path I follow for the growth of my career is made up of <b>three pillars:</b> <i>Personal Management, Innovation and Adaptation.</i> This way, I can provide a healthy relationship with the company's team. I believe this is very powerful for the evolution of a company. That's what makes me so motivated to face all the challenges in my professional journey.</p> 
   </div>
   <h4>FrontEnd Dev Skills:</h4>
     <img style="margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px" />
