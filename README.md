@@ -62,10 +62,10 @@
   <div>
     <h2>Projects In Progress: </h2>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img style="margin-bottom:30px" align="right" src="https://github-readme-stats.vercel.app/api?username=djonatanAbreu&show_icons=true&theme=radical" />
+      <img align="right" src="https://github-readme-stats.vercel.app/api?username=djonatanAbreu&show_icons=true&theme=radical" />
     </a>
     →
-    <a style="margin-bottom: 3px;" href="https://github.com/Djonatanabreu/legendary-store-mobile">Legendary Store
+    <a style="margin-bottom: 3px; margin-top: 30px;" href="https://github.com/Djonatanabreu/legendary-store-mobile">Legendary Store
       App</a>
     <p>
       <!-- iOS -->
