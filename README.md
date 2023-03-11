@@ -12,7 +12,8 @@
       in my professional journey.</p>
   </div>
   <div>
-    <h4>FrontEnd Dev Skills:</h4>
+  <h3> Technologies & Skills:</h3>
+    <h4>FrontEnd Dev:</h4>
     <img style="margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
       width="30px" />
     <img style="margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
@@ -33,7 +34,7 @@
     <img style="margin-right: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
       width="30px" />
     <br/>
-    <h4>Controls & DevOps Skills: </h4>
+    <h4>Controls & DevOps: </h4>
     <img style="margin-right: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
       width="30px" />
     <img style="margin-right: 5px;  background-color: grey"
@@ -45,7 +46,7 @@
     <img style="margin-right: 5px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
       width="30px" />
     <br />
-    <h4>UI/UX Skills: </h4>
+    <h4>UI: </h4>
     <img style="margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
       width="30px" />
     <img style="margin-right: 5px;"
