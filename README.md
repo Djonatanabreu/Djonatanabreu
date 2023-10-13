@@ -78,7 +78,11 @@
     </p>
     <br />
     →
-    <a href="https://github.com/Djonatanabreu/event-list-app">Event List</a>
+    <a href="https://github.com/Djonatanabreu/all-service-app">AllService App</a>
+    <br />
+    <br />
+    →
+    <a href="https://github.com/Djonatanabreu/personal-blog">Default Personal Template</a>
     <br />
     <p>
       <!-- Web -->
