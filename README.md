@@ -13,7 +13,7 @@
   </div>
   <div>
   <h3> Technologies & Skills:</h3>
-    <h4>FrontEnd Dev:</h4>
+    <h4>Dev Technologies:</h4>
     <img style="margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
       width="30px" />
     <img style="margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
