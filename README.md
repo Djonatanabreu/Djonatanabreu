@@ -3,12 +3,9 @@
   <div>
     <h3/> Profile </h3>
     <p> <i>I love Knowledge, I love to learn.</i> </p>
-    <p>The <b>IT development environment</b> is my "habitat", I have been very interested in programming languages since
-      I was 12 years.</p>
-    <p>The path I follow for the growth of my career is made up of <b>three pillars:</b> <i>Personal Management,
-        Innovation and Adaptation.</i> This way, I can provide a healthy relationship with the company's team. I believe
-      this is very powerful for the evolution of a company. That's what makes me so motivated to face all the challenges
-      in my professional journey.</p>
+    <p>The <b>IT development environment</b> is my "habitat"</p>
+    <p>The path I follow to be in constant learning on my journey is constituted by <b>three pillars:</b> <i>Personal Management,
+        Innovation and Adaptation.</i></p>
   </div>
   <div>
   <h3> Technologies & Skills:</h3>
